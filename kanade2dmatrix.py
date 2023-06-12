@@ -7,7 +7,7 @@
 # ending indexes of the maximum sum subarray
 # at addresses pointed by start and finish
 # pointers respectively.
-  
+ 
   
 def kadane(arr, start, finish, n):
   
