@@ -119,5 +119,3 @@ M = [[1, 2, -1, -4, -20],
   
 # Function call
 findMaxSum(M)
-  
-# This code is contributed by PranchalK
